@@ -1,7 +1,6 @@
 - 👋 Hi, I’m Asanka Damsen
 - 👀 I’m interested in Domain Driven Design
 - 🌱 I’m currently learning Event-Driven Architecture 
-- 💞️ I’m looking to collaborate on ...
 - 📫 You can reach me on damsen@gmail.com
 
 <!---
